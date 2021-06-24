@@ -1,0 +1,31 @@
+{
+  "date" : null,
+  "sommeEspece" : 3400.0,
+  "sommeCompte" : 3399.0,
+  "type" : "Retrait",
+    "devise" : {
+        "href" : "http://localhost:8080/devises/1"
+    },
+    "compte" : {
+      "href" : "http://localhost:8080/operations/1/compte"
+    }
+  
+}
+---------------
+{
+  "date" : null,
+  "sommeEspece" : 3400.0,
+  "sommeCompte" : 3399.0,
+  "type" : "Versement",
+    "devise" : {
+        "href" : "http://localhost:8080/devises/1"
+    },
+    "compte" : {
+      "href" : "http://localhost:8080/operations/1/compte"
+    }
+  
+}
+LQnSZVtTjHfzAbAaxORLygg9
+https://www1.oanda.com/fx-for-business/test-drive
+
+{"id":5,"code":"GBP","nom":"British Pound","langue":"english","alphaCode":"","isoCode":"","bankCode":"","paysCode":"GB","creationDate":null,"creationAdmin":{"id":8,"nom":null,"prenom":null,"cin":null,"adresse":null,"telephone":null,"email":null,"username":"root","password":"admin","role":"admin"},"modificationDate":null,"modificationAdmin":{"id":9,"nom":null,"prenom":null,"cin":null,"adresse":null,"telephone":null,"email":null,"username":"user","password":"password","role":"admin"}}
